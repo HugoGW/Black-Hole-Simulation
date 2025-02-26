@@ -48,7 +48,7 @@ As the simulation progresses, the mass of the black hole increases, which amplif
 
 ## Output
 
-The simulation generates an image where the black hole grows in mass, progressively distorting the background image. The final visualization (`BH_pic.jpg`) exhibits a strong gravitational lensing effect with an event horizon region appearing completely black due to light capture. 
+The simulation generates an image where the black hole grows in mass, progressively distorting the background image. The final visualization (`BH_pic.jpg`) exhibits a strong gravitational lensing effect with an event horizon region appearing completely black due to light capture. ![Gravitational Lensing](BH_pic.jpg)
 
 
 
