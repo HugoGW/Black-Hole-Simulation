@@ -38,7 +38,7 @@ python black_hole_lensing.py
 4. The animation will be generated and saved as `black_hole_pos.mp4`.
 
 ## Example Output
-The code works with an uploaded image that reproduces a space background being distorted by a black hole. You need then to upload the file space_background.jpg given or any similar file.
+The code works with an uploaded image that reproduces a space background being distorted by a black hole. You need then to upload the file space_background.jpg given (see below) or any similar file.
 ![Gravitational Lensing](space_background.jpg)  
 
 
