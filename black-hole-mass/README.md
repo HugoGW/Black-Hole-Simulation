@@ -64,11 +64,7 @@ The simulation will generate an animation showing the increasing distortion effe
 ```
 
 ## 🎥 Output
-The animation depicts the **gravitational lensing effect** increasing over time. As the black hole's mass grows, light is bent more dramatically, causing stronger distortions.
-
-<p align="center">
-  <img src="example.gif" alt="Black hole lensing simulation">
-</p>
+The animation depicts the **gravitational lensing effect** increasing over time. As the black hole's mass grows, light is bent more dramatically, causing stronger distortions. For that we need a space background image ![Gravitational Lensing](space_background_2.jpg) :
 
 
 
